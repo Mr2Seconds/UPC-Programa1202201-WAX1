@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Dad\source\repos\ExamenParcial\Source.cpp(27,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Dad\source\repos\ExamenParcial\Source.cpp(39,3): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\Dad\source\repos\ExamenParcial\Source.cpp(51,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Dad\source\repos\ExamenParcial\Source.cpp(57,27): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  ExamenParcial.vcxproj -> C:\Users\Dad\source\repos\ExamenParcial\Debug\ExamenParcial.exe
